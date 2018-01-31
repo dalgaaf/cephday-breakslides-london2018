@@ -3,7 +3,7 @@
  <tr bgcolor="#F38984"><th align="center">9:00 - 9:15</th><td>Welcome &amp; Kickoff</td></tr>
  <tr bgcolor="#9BCED5"><th align="center">9:15 - 10:00</th><td><b>Ceph Luminous is out what's in it for you?</b><br> <i>John Spray (Red Hat)</i></td></tr>
  <tr bgcolor="#F38984"><th align="center">10:00 - 10:45</th><td><b>Email Storage with Ceph</b><br><i>Danny Al-Gaaf (Deutsche Telekom AG)</i></td></tr>
- <tr bgcolor="#9BCED5"><th align="center">10:45 - 11:00</th><td><b>Email Objects in RADOS</b><br><i>Peter Maritius (Tallence AG)</i></td></tr>
+ <tr bgcolor="#9BCED5"><th align="center">10:45 - 11:00</th><td><b>Email Objects in RADOS</b><br><i>Peter Mauritius (Tallence AG)</i></td></tr>
  <tr bgcolor="#E0E1E4"><th align="center">11:00 - 11:15</th><td>Break</td></tr>
  <tr bgcolor="#F38984"><th align="center">11:15 - 12:00</th><td><b>Ceph at SAP – How to build a cattle cloud</b><br><i>Marc Koderer (SAP) / Jan Fajerski (SUSE)</i></td></tr>
  <tr bgcolor="#9BCED5"><th align="center">12:00 - 12:30</th><td><b>Ceph for Big Science</b><br> <i>Dan van der Ster (CERN)</i></td></tr>
