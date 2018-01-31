@@ -1,4 +1,5 @@
-<table class="cephdays--timetable" width="100%">
+<!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
+<table class="cephdays--timetable" width="72%" align="left">
 <tbody>
  <tr bgcolor="#F38984"><th align="center">9:00 - 9:15</th><td>Welcome &amp; Kickoff</td></tr>
  <tr bgcolor="#9BCED5"><th align="center">9:15 - 10:00</th><td><b>Ceph Luminous is out what's in it for you?</b><br> <i>John Spray (Red Hat)</i></td></tr>
@@ -13,7 +14,8 @@
 </table>
 
 
-<table class="cephdays--timetable" width="100%">
+<!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
+<table class="cephdays--timetable" width="72%" align="left">
 <tbody>
  <tr bgcolor="#F38984"><th align="center">13:45 - 14:30</th><td><b>Five years of Ceph and Outlook</b><br> <i>Lars Marowsky-Bree (SUSE)</i></td></tr>
  <tr bgcolor="#9BCED5"><th align="center">14:30 - 15:15</th><td><b>Ceph Management and Monitoring with openATTIC</b><br> <i>Kai Wagner (SUSE)</i></td></tr>
