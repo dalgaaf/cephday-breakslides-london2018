@@ -1,3 +1,7 @@
+<!-- .slide: data-background-image="images/cephdays-background-title-block.jpg" data-background-size="contain" -->
+# Todays Agenda <!-- .element: class="cephday-front-h1" -->
+
+
 <!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
 <table class="cephdays--timetable" width="72%" align="left">
 <tbody>

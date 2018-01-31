@@ -1,3 +1,7 @@
+<!-- .slide: data-background-image="images/cephdays-background-title-block.jpg" data-background-size="contain" -->
+# Upcoming Community Events <!-- .element: class="cephday-front-h1" -->
+
+
 <!-- .slide: data-background-image="images/cephalocon-banner_4to3.png" data-background-size="contain" -->
 
 Note: Add conclusion notes here.

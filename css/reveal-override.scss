@@ -74,6 +74,10 @@
 	}
     }
 
+    sup {
+        font-size: 70%;
+    }
+
     .progress span {
         background-color: black;
     }
@@ -132,14 +136,14 @@
     blockquote {
         background: #f9f9f9;
         border-left: 10px solid #ccc;
-        margin: 1.5em 10px;
+        margin: 0.2em 10px;
         padding: 0.5em 10px;
 
         &:before, &:after {
             color: #ccc;
             font-size: 4em;
             line-height: 0.1em;
-            vertical-align: -0.4em;
+            vertical-align: -0.8em;
         }
 
         &:before {
@@ -147,7 +151,7 @@
         }
 
         &:after {
-            margin-left: 0.25em;
+            margin-left: 8em;
         }
 
         p {
