@@ -145,10 +145,8 @@
   font-size: 2em !important;
   font-family: "Raleway" !important;
   text-transform: none !important;
-  left: 45%;
-  top: 60%;
-  margin-left: -18vw;
-  margin-top: 12vh;
+  margin-left: 175;
+  margin-top: 130;
   text-shadow: none;
 }
 .reveal .cephday-front-h2 {
@@ -157,10 +155,8 @@
   font-size: 1.2em !important;
   font-family: "Raleway" !important;
   text-transform: none !important;
-  left: 45%;
-  top: 60%;
-  margin-left: -18vw;
-  margin-top: 18vh;
+  margin-left: 175;
+  margin-top: 200;
   text-shadow: none;
 }
 .reveal .caption {
