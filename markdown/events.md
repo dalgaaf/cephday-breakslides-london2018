@@ -6,3 +6,6 @@
 
 
 <!-- .slide: data-background-image="images/openstack-summit-vancouver18.jpg" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="images/openstack-summit-berlin18.jpg" data-background-size="contain" -->
