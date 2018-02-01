@@ -18,14 +18,3 @@
 > ‘free’ open source means better collaboration.
 
 <sup>- Stephan Fabel, Technical Lead at the College of Education, University of Hawaii</sup>
-
-
-<!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
-##### Massively Scalable
-##### Fully-Distributed
-##### Self-Managing, Self Healing
-##### Commodity Hardware, Mixed Environments
-
-<div>
-  <img src="images/ceph-overview.png" width="60%" alt="Ceph Overview">
-</div>
