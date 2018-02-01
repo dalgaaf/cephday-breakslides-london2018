@@ -23,7 +23,7 @@
 <tbody>
  <tr bgcolor="#F38984"><td align="center">13:45 - 14:30</td><td><b>Five years of Ceph and Outlook</b><br> <i>Lars Marowsky-Bree (SUSE)</i></td></tr>
  <tr bgcolor="#9BCED5"><td align="center">14:30 - 15:15</td><td><b>Ceph Management and Monitoring with openATTIC</b><br> <i>Kai Wagner (SUSE)</i></td></tr>
- <tr bgcolor="#F38984"><td align="center">15:15 - 15:30</td><td><b>Ceph Configuration & Performance Data on New Intel Processors and SSDs</b><br> <i>Mohamed Elsaid (Intel)</i></td></tr>
+ <tr bgcolor="#F38984"><td align="center">15:15 - 15:30</td><td><b>Ceph Performance on New Intel Platforms and SSDs</b><br> <i>Mohamed Elsaid (Intel)</i></td></tr>
  <tr bgcolor="#E0E1E4"><td align="center">15:30 - 15:45</td><td>Break</td></tr>
  <tr bgcolor="#9BCED5"><td align="center">15:45 - 16:15</td><td><b>10 ways to break your Ceph cluster</b><br> <i>Wido den Hollander (42on.com)</i></td></tr>
  <tr bgcolor="#F38984"><td align="center">16:15 - 16:45</td><td><b>Development update: ceph-mgr and kubernetes</b><br> <i>John Spray (Red Hat)</i></td></tr>
