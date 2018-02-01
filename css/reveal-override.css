@@ -21,8 +21,6 @@
   /* Disable box shadow around images */
   box-shadow: none;
   /* Blow image up to full screen size */
-  height: auto;
-  width: auto;
   max-width: 70%;
   max-height: 70%;
 }
@@ -44,13 +42,18 @@
 .reveal h3 {
   font-size: 1.8em;
 }
+.reveal h5 {
+  font-size: 1.3em;
+  margin: 2%;
+}
 .reveal h1, .reveal h2 {
   text-shadow: none;
   color: white;
 }
 .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   text-shadow: none;
-  color: grey;
+  color: #515561;
+  text-transform: none !important;
 }
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   font-family: "Raleway", sans-serif;

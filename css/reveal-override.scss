@@ -21,8 +21,6 @@
 	box-shadow: none;
 
         /* Blow image up to full screen size */
-        height: auto;
-        width: auto;
         max-width: 70%;
         max-height: 70%;
     }
@@ -54,6 +52,11 @@
         font-size: 1.8em;
     }
 
+    h5 {
+        font-size: 1.3em;
+        margin: 2%;
+    }
+
     h1, h2 {
         text-shadow: none;
         color: white;
@@ -61,7 +64,8 @@
 
     h3, h4, h5, h6 {
         text-shadow: none;
-        color: grey;
+        color: #515561;
+        text-transform: none !important;
     }
 
     h1, h2, h3, h4, h5, h6 {
