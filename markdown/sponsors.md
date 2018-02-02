@@ -5,3 +5,6 @@
 
 
 <!-- .slide: data-background-image="images/L1_SAP_CP_IoTCF_External_v17_4x3.png" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="images/opentelekomcloud_advertise_DE.png" data-background-size="contain" -->
