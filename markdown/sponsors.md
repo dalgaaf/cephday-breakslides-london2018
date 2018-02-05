@@ -11,3 +11,6 @@
 
 
 <!-- .slide: data-background-image="images/opentelekomcloud_advertise_DE.png" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="images/StarlineCephDaySlide.png" data-background-size="contain" -->
