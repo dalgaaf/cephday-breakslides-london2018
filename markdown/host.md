@@ -5,4 +5,4 @@
 <!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
 ### THANK YOU TO OUR HOST!
 
-<img src="images/T_Logo_4c_Slogan_p_INT.svg" alt="SponsorLogos">
+<img src="images/shapeblue.png" alt="HostLogos" style="width:40%">

@@ -5,31 +5,44 @@
 <!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
 <table class="cephdays--timetable" width="72%" align="left">
 <tbody>
- <tr bgcolor="#F38984"><td align="center">9:00 - 9:15</td><td>Welcome &amp; Kickoff</td></tr>
- <tr bgcolor="#9BCED5"><td align="center">9:15 - 10:00</td><td><b>Ceph Luminous is out what's in it for you?</b><br> <i>John Spray (Red Hat)</i></td></tr>
- <tr bgcolor="#F38984"><td align="center">10:00 - 10:45</td><td><b>Email Storage with Ceph</b><br><i>Danny Al-Gaaf (Deutsche Telekom AG)</i></td></tr>
- <tr bgcolor="#9BCED5"><td align="center">10:45 - 11:00</td><td><b>Email Objects in RADOS</b><br><i>Peter Mauritius (Tallence AG)</i></td></tr>
+ <tr bgcolor="#E0E1E4"><td align="center">8:30 - 9:15</td><td>Opening and registration</td></tr>
+ <tr bgcolor="#F38984"><td align="center">9:15 - 9:30</td><td>Welcome to the Ceph/CloudStack day!</td></tr>
+ <tr bgcolor="#9BCED5"><td align="center">9:30 - 10:15</td><td><b>Building a highly available cloud with Ceph and CloudStack</b><br> <i>Wido den Hollander (PCextreme)</i></td></tr>
+ <tr bgcolor="#F38984"><td align="center">10:15 - 11:00</td><td><b>Ceph in Kubernetes</b><br><i>John Spray (Red Hat)</i></td></tr>
  <tr bgcolor="#E0E1E4"><td align="center">11:00 - 11:15</td><td>Break</td></tr>
- <tr bgcolor="#F38984"><td align="center">11:15 - 12:00</td><td><b>Ceph at SAP – How to build a cattle cloud</b><br><i>Marc Koderer (SAP) / Jan Fajerski (SUSE)</i></td></tr>
- <tr bgcolor="#9BCED5"><td align="center">12:00 - 12:30</td><td><b>Ceph for Big Science</b><br> <i>Dan van der Ster (CERN)</i></td></tr>
- <tr bgcolor="#F38984"><td align="center">12:30 - 12:45</td><td><b>A flexible ARM-based Ceph solution                           </b><br> <i>Mohammad Ammar (Starline)</i><br></td></tr>
- <tr bgcolor="#E0E1E4"><td align="center">12:45 - 13:45</td><td>Networking Lunch</td></tr>
+ <tr bgcolor="#9BCED5"><td align="center">11:15 - 12:00</td><td><b>Ceph (TBC)</b><br><i>Phil Straw (SoftIron)</i></td></tr>
+ <tr bgcolor="#F38984"><td align="center">12:00 - 12:45</td><td><b>Our way to Ceph</b><br><i>Sebastian Bretschneider (Bit Group)</i></td></tr>
+ <tr bgcolor="#E0E1E4"><td align="center">12:45 - 13:15</td><td>Lunch Break</td></tr>
 </tbody>
 </table>
 
 
 <!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
+### Ceph Track
 <table class="cephdays--timetable" width="72%" align="left">
 <tbody>
- <tr bgcolor="#F38984"><td align="center">13:45 - 14:30</td><td><b>Five years of Ceph and Outlook</b><br> <i>Lars Marowsky-Bree (SUSE)</i></td></tr>
- <tr bgcolor="#9BCED5"><td align="center">14:30 - 15:10</td><td><b>Ceph Management and Monitoring with openATTIC</b><br> <i>Kai Wagner (SUSE)</i></td></tr>
- <tr bgcolor="#F38984"><td align="center">15:10 - 15:30</td><td><b>Ceph Performance on New Intel Platforms and SSDs</b><br> <i>Mohamed Elsaid (Intel)</i></td></tr>
- <tr bgcolor="#E0E1E4"><td align="center">15:30 - 15:45</td><td>Break</td></tr>
- <tr bgcolor="#9BCED5"><td align="center">15:45 - 16:15</td><td><b>10 ways to break your Ceph cluster</b><br> <i>Wido den Hollander (42on.com)</i></td></tr>
- <tr bgcolor="#F38984"><td align="center">16:15 - 16:45</td><td><b>Development update: ceph-mgr and kubernetes</b><br> <i>John Spray (Red Hat)</i></td></tr>
- <tr bgcolor="#9BCED5"><td align="center">16:45 - 17:15</td><td><b>Everyone can Build and Maintain a Ceph Cluster with croit</b><br> <i>Paul Emmerich (croit)</i></td></tr>
- <tr bgcolor="#F38984"><td align="center">17:15 - 17:30</td><td><b>SSD-only Performance with Ceph</b><br> <i>Sven Michels (sectoor GmbH)</i></td></tr>
- <tr bgcolor="#9BCED5"><td align="center">17:30 - 17:45</td><td><b>Q&A Session</b></td></tr>
- <tr bgcolor="#E0E1E4"><td align="center">17:45 - 18:45</td><td>Networking Reception <i>(Lounge)</i></td></tr>
+ <tr bgcolor="#F38984"><td align="center">13:15 - 13:30</td><td>Introductions & welcome</td></tr>
+ <tr bgcolor="#9BCED5"><td align="center">13:30 - 14:15</td><td><b>What's new in Luminous and Mimick</b><br> <i>Lars Marowsky-Bree (SUSE)</i></td></tr>
+ <tr bgcolor="#F38984"><td align="center">14:15 - 15:00</td><td><b>Dashboard v2</b><br> <i>Kai Wagner (SUSE)</i></td></tr>
+ <tr bgcolor="#9BCED5"><td align="center">15:00 - 15:45</td><td><b>Building a high-performance SSD-only Ceph cluster</b><br> <i>Wido den Hollander (PCextreme)</i></td></tr>
+ <tr bgcolor="#F38984"><td align="center">15:45 - 16:30</td><td><b>E-Mail storage on Ceph</b><br> <i>Danny Al-Gaaf (Deutsche Telekom AG)</i></td></tr>
+ <tr bgcolor="#9BCED5"><td align="center">16:30 - 17:15</td><td><b>Low latency Ceph</b><br> <i>Nick Fisk</i></td></tr>
+ <tr bgcolor="#E0E1E4"><td align="center">17:15 - 18:30</td><td>Thank you and drinks!</td></tr>
 </tbody>
 </table>
+
+
+<!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
+### CloudStack Track
+<table class="cephdays--timetable" width="72%" align="left">
+<tbody>
+ <tr bgcolor="#F38984"><td align="center">13:15 - 13:30</td><td><b>Welcome & news</b><br> <i>Giles Sirett (ShapeBlue)</i></td></tr>
+ <tr bgcolor="#9BCED5"><td align="center">13:30 - 14:15</td><td><b>VP handover and CloudStack 4.11 release</b><br> <i>Wido den Hollander & Mike Tutkowski</i></td></tr>
+ <tr bgcolor="#F38984"><td align="center">14:15 - 15:00</td><td><b>Billing the Cloud</b><br> <i>Antoine Coetsier</i></td></tr>
+ <tr bgcolor="#9BCED5"><td align="center">15:00 - 15:45</td><td><b>What’s new in CloudStack 4.11</b><br> <i>Paul Angus</i></td></tr>
+ <tr bgcolor="#F38984"><td align="center">15:45 - 16:30</td><td><b>Building a software-defined cloud with CloudStack</b><br> <i>Boyan Ivanov</i></td></tr>
+ <tr bgcolor="#9BCED5"><td align="center">16:30 - 17:15</td><td><b>How Hybrid (Private interconnection) works in Leaseweb</b><br> <i>Mukesh Kumar</i></td></tr>
+ <tr bgcolor="#E0E1E4"><td align="center">17:15 - 18:30</td><td>Thank you and drinks!</td></tr>
+</tbody>
+</table>
+
