@@ -1,8 +1,8 @@
-<!-- .slide: data-background-image="images/cephdays-background-title-block.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/cephdays-background-title-block_16:9.jpg" data-background-size="contain" -->
 # Todays Agenda <!-- .element: class="cephday-front-h1" -->
 
 
-<!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/cephdays-background-slides-right16:9.png" data-background-size="contain" -->
 <table class="cephdays--timetable" width="72%" align="left">
 <tbody>
  <tr bgcolor="#E0E1E4"><td align="center">8:30 - 9:15</td><td>Opening and registration</td></tr>
@@ -17,7 +17,7 @@
 </table>
 
 
-<!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/cephdays-background-slides-right16:9.png" data-background-size="contain" -->
 ### Ceph Track
 <table class="cephdays--timetable" width="72%" align="left">
 <tbody>
@@ -32,7 +32,7 @@
 </table>
 
 
-<!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/cephdays-background-slides-right16:9.png" data-background-size="contain" -->
 ### CloudStack Track
 <table class="cephdays--timetable" width="72%" align="left">
 <tbody>

@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/cephdays-background-slides-right16:9.png" data-background-size="contain" -->
 
 > With OpenStack virtual machine management, <b>reliable and resilient
 > Ceph block storage</b>, and software-defined networking that truly
@@ -9,7 +9,7 @@
 <sup> - Simon Anderson, CEO of DreamHost </sup> 
 
 
-<!-- .slide: data-background-image="images/cephdays-background-slides.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/cephdays-background-slides-right16:9.png" data-background-size="contain" -->
 
 > With Ceph, we have <b>unlimited flexibility in our topology</b>. Switching from
 > proprietary systems to open source has been so much more collaborative,

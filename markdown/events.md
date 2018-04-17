@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="images/cephdays-background-title-block.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="images/cephdays-background-title-block_16:9.jpg" data-background-size="contain" -->
 # Upcoming Community Events <!-- .element: class="cephday-front-h1" -->
 
 
